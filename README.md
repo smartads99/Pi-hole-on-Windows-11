@@ -26,8 +26,8 @@ To download the Pi-hole container, open Windows Command Prompt as an administrat
 # Give your PC a static IP address
 The next step is to give your Windows PC a static IP address so it can be reliably reached on your network. To do this, head to Windows Settings (right click on the start button and click “Settings”).
 
-1.Select “Network & internet” from the sidebar menu.
-2.Click on WiFi, (or Ethernet if you’re using a wired connection). Then click on the network properties item. This will most likely be prefaced with your network name.
-3.Half way down the page, click “Edit” alongside IP assignment.
-4.This will launch the “Edit network IP settings” dialog. Select manual from the dropdown list.
-5.In the dialog that pops up, set a manual IP address.
+1. Select “Network & internet” from the sidebar menu.
+2. Click on WiFi, (or Ethernet if you’re using a wired connection). Then click on the network properties item. This will most likely be prefaced with your network name.
+3. Half way down the page, click “Edit” alongside IP assignment.
+4. This will launch the “Edit network IP settings” dialog. Select manual from the dropdown list.
+5. In the dialog that pops up, set a manual IP address.
